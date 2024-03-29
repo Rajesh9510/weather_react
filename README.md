@@ -5,3 +5,11 @@ Preview:-
 
 No Data Found:-
 ![Screenshot 2024-03-29 151554](https://github.com/Rajesh9510/weather_react/assets/87410952/ff8b523e-8d44-4fb4-92d3-cfb9db95e56c)
+
+
+###setup
+npm i
+npm start
+
+### API Refrence
+https://openweathermap.org/
